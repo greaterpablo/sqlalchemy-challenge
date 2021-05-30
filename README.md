@@ -9,4 +9,4 @@ As a long holiday vacation planner in Honolulu, Hawaii i will give you some inte
 
 
 Are raining is related with highest waves?
-I'd like to surf in but i can only do it in 8 months!
+I'd like to surf in but i can only do it in 8 months! :+1:
