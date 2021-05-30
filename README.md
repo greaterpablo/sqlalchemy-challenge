@@ -1,5 +1,9 @@
+###HONOLULU REPORT
+
 In this excercise you could note how we can work on large databases
-As a long holiday vacation planner in Honolulu, Hawaii i will give you some intersting insights:
+As a long holiday vacation planner in Honolulu, Hawaii, 
+
+So i will give you some intersting insights:
 
 1.-The average temperature is around 72°F with a max of 80°F and lowest 54° so I need special clothes for that
 
